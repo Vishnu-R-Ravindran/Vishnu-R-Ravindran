@@ -1,6 +1,6 @@
 # Greetings, I'm Here **🌍**
 
-I'm a Django Developer with a **Computer Engineering** background, skilled in **Python**, **PHP**, **HTML**, Bootstrap, and Tailwind CSS. I love building user-friendly web apps, troubleshooting code, and exploring **IoT**. I'm fascinated by **ethical hacking** and find **Linux distros** and operating systems exciting, though I'm still learning both.
+I'm a Django Developer with a **Computer Engineering** background, skilled in **Python**, **PHP**, **HTML**, Bootstrap, and Tailwind CSS. I love building user-friendly web apps, troubleshooting code, and exploring **IoT**. I'm fascinated to find **Linux distros** and operating systems exciting, though I'm still learning .
 
 - 🚀 **Skills**: Python, PHP, Django, HTML, Bootstrap, Tailwind CSS
 - 🌱 **Learning**: IoT and basics of ethical hacking
